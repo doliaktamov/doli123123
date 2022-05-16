@@ -1,1 +1,1 @@
-"web: gunicorn qwe.wsgi - log-file -"
+"web: gunicorn qwe.wsgi -log-file -"
